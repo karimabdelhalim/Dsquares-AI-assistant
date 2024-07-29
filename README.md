@@ -1,6 +1,6 @@
 # Dsquares-AI-assistant
 
-## Dsquares Project Document Chatbot
+# Dsquares Project Document Chatbot
 
 To enhance employee interaction with project documents, we have developed an advanced chatbot designed to address the specific challenges faced by Dsquares employees in extracting and utilizing information from a large corpus of data. This chatbot leverages cutting-edge Large Language Models (LLM) and Retrieval Augmented Generation (RAG) technology to provide precise and contextually relevant answers to employee queries.
 
@@ -9,6 +9,8 @@ By integrating LLM and RAG, the chatbot is capable of understanding complex ques
 The implementation of this chatbot will empower employees to make faster, more informed decisions, minimize the risk of errors, and enhance their ability to successfully execute projects. Ultimately, this innovative approach will contribute to achieving better project outcomes and driving the overall success of Dsquares.
 
 ## Workflow
+
+![Workflow Diagram](WhatsApp Image 2024-07-23 at 1.03.30 AM.jpeg)
 
 1. **Data Preparation (A)**
     - The process begins with gathering and organizing raw data sources. This can include various formats like text documents, web pages, databases, etc.
@@ -39,4 +41,3 @@ The implementation of this chatbot will empower employees to make faster, more i
 
 10. **Response (5)**
     - The final response is presented to the user.
-
