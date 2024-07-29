@@ -10,7 +10,7 @@ The implementation of this chatbot will empower employees to make faster, more i
 
 ## Workflow
 
-![Workflow Diagram](WhatsApp Image 2024-07-23 at 1.03.30 AM.jpeg)
+![Workflow Diagram]([WhatsApp Image 2024-07-23 at 1.03.30 AM.jpeg](https://github.com/karimabdelhalim/Dsquares-AI-assistant/blob/main/WhatsApp%20Image%202024-07-23%20at%201.03.30%20AM.jpeg))
 
 1. **Data Preparation (A)**
     - The process begins with gathering and organizing raw data sources. This can include various formats like text documents, web pages, databases, etc.
